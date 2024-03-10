@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+pymysql
+python-dotenv
+
+# -e .
+# ipykernel we will install in the local...using"  pip install ipykernel "
